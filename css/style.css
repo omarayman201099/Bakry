@@ -1,0 +1,600 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Home style */
+
+#Home{
+    background-image: url(../imgs/drew-coffman-1872.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+    text-align: center;
+    overflow: auto;
+    
+    
+    
+    
+
+}
+
+.background-1{
+   
+}
+
+
+.main{
+    margin-top: 250px;
+    
+}
+
+.icon img{
+    width:150px;
+    float: left;
+
+}
+.navs{
+    margin-top: 15px;
+    
+}
+
+
+.nav-bar img{
+padding-left: 50px;
+}
+
+.navs li{
+    
+   float: right;
+   padding: 10px;
+  padding-right: 50px;
+
+  
+   
+  }
+  .navs a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    transition: .4s;
+  }
+
+  .clr{
+    clear: both;
+  }
+
+
+  .navs li:hover a{
+    color: #8E7754;
+  }
+
+
+
+  .main h3{
+
+    font-size: 30px;
+   font-weight:    400;
+   font-family: "Alegreya Sans", sans-serif;
+    
+  }
+
+  .main h1{
+    font-size: 76px;
+    font-weight: 400;
+    font-family: "Alegreya", serif;
+   
+    
+  }
+
+  .main p{
+
+    font-size: 16px;
+    font-family: "Alegreya Sans", sans-serif;
+
+  }
+
+
+  .btn-1{
+    background-color: #8E7754;
+    border: none;
+    font-size: 15px;
+    padding: 15px 28px;
+    border-radius: 5px;
+    color: #fff;
+    margin: 5px;
+    font-weight: 400;
+    font-family: "Alegreya Sans", sans-serif;
+    transition: .4s;
+  
+  }
+
+  .btn-1:hover{
+    background-color: #F8F8F8;
+    color: #353330;
+  }
+
+
+  .btn-2{
+    background-color: transparent;
+    border:2px solid #fff;
+    font-size: 15px;
+    padding: 15px 28px;
+    border-radius: 5px;
+    color: #fff;
+    margin: 5px;
+    font-weight: 400;
+    font-family: "Alegreya Sans", sans-serif;
+    transition: .4s;
+  
+  }
+
+  .btn-2:hover{
+    background-color: #fff;
+    color: #403D38;
+  
+
+   
+  }
+
+
+
+  .box{
+    background-color: #8E7754;
+    width: 40px;
+    height: 70px;
+    position: fixed;
+    right: 0;
+    bottom: 50%;
+    position: absolute;
+    
+    
+   
+
+  }
+
+  .box a{
+
+
+
+  }
+
+ 
+
+  .box-2{
+    border: #F8F8F8 2px solid;
+    border-radius: 50px;
+    position: absolute;
+    top: 700px;
+    right: 670px;
+    left: 615px;
+    width: 35px;
+    height: 50px; 
+
+    
+  }
+
+ 
+
+ /* About style */
+
+ #About{
+    margin: 20px;
+    padding: 20px;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    
+    
+ }
+
+.imge2{
+    display: inline-block;
+    width: 600px;
+    padding-left: 37px;
+    padding-right: 37px;
+    margin-left: 10px;
+    
+}
+
+
+.imge2 img{
+    width:500px ;
+    vertical-align: bottom;
+    
+}
+.content{
+    display: inline-block;
+    
+    
+    
+}
+
+
+
+.content img{
+width: 40px;
+
+font-weight: 400;
+
+
+}
+ul{
+    list-style: none;
+    
+}
+
+.content ul img{
+ vertical-align: middle;
+
+    border: 1px #969696  solid;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}
+
+
+
+/* our locaton style */
+
+#ourlocation{
+    background-color: #F8F8F8;
+    margin: 30px;
+    padding: 30px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+
+    tecv
+
+ .content{
+    display: inline-block;
+    width: 25%;
+ }
+ .img5{
+    display: inline-block;
+    padding-left: 100px;
+   
+    
+    
+ }
+
+ .img5 img{
+    
+    width: 500px;
+    vertical-align: middle;
+ }
+
+
+ .content h1{
+    font-size: 35px;
+    font-weight: 400;
+    font-family: "Alegreya", serif;
+ }
+
+
+ .content p{ 
+    font-size:16px;
+    font-weight: 400;
+    font-family: "Alegreya Sans", sans-serif;
+}
+
+
+
+
+/* our baking style */
+
+
+
+
+
+
+
+
+.content-4{
+    text-align: center;
+}
+
+.content-4 h1{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: "Alegreya", serif;
+}
+
+
+.content-4 p{
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Alegreya Sans", sans-serif;
+}
+
+.img-6{
+    width: 33.3%;
+  float: left;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+.img-6 img{
+   width: 350px;
+}
+
+
+/* infermotion style */
+
+#infermotion{
+    background-color: #F8F8F8;
+    overflow: auto;
+    
+}
+.contenar-4{
+    margin-top: 80px;
+    margin-bottom: 250px;
+    
+}
+.content-6{
+   
+   margin-left: 70px;
+   float: left;
+   font-size: 20px;
+   font-family: "Alegreya Sans", sans-serif;
+   
+  
+}
+
+
+.content-6 h2{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: "Alegreya", serif;
+    
+
+}
+
+
+.content-6 p{
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Alegreya Sans", sans-serif;
+}
+
+
+
+
+
+.img-8 ul img{ 
+    width: 40px;
+    vertical-align: middle;
+   
+   background-color:#8E7754;
+    border: px #969696  solid;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    
+}
+.imge-9 {
+  
+    float: right;
+    margin-right: 90px;
+    
+  
+    
+}
+
+
+
+/* footer style */
+
+
+#footer{
+
+    background-color: #403D38;
+    color: #969696;
+
+  
+}
+.contenar-9{
+   
+    width: 25%;
+    float: left;
+     margin-top: 50px;
+    margin-left: 50px;
+ 
+  
+  
+   
+
+    
+
+}
+
+.About-you h3{
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Alegreya", serif;
+}
+
+.About-you p{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Alegreya Sans", sans-serif;
+
+} 
+
+.content-10 {
+  
+    width: 18%; 
+    margin-top: 50px;
+    margin-left: 50px;   
+    float: left;
+
+}
+.content-10 h3{
+    font-family: "Alegreya", serif;
+    font-weight: 400;
+}
+.content-10 li{
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+}
+
+.content-10  ul li{
+    border-bottom: 1px solid;
+  
+}
+
+
+.content-10 ul img{
+
+width: 20px;
+vertical-align: middle;
+margin-bottom: 6px;
+padding-bottom: 7px;
+
+}
+
+
+.content-12{
+    
+ background-image: url(../imgs/contact-details-map.png);
+
+ 
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+
+
+ 
+}
+    
+.content-12{
+    width: 18%; 
+    margin-top: 50px;
+    margin-left: 50px;   
+    float: left;
+    margin-bottom: 50px;
+}
+
+.content-12 h3{
+    font-family: "Alegreya", serif;
+    
+}
+.content-12 p{
+    font-size: 14px;
+    font-family: "Alegreya Sans", sans-serif;
+}
+.content-13 ul li{
+    border-bottom: 1px solid;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+  
+}
+
+.content-13 ul img{
+    width: 35px;
+vertical-align: middle;
+margin-bottom: 6px;
+padding-bottom: 7px;
+
+}
+
+    
+
+/* last div style :) */
+
+
+#logo{
+    background-color: #353330;
+    overflow: auto;
+}
+
+
+
+
+.contenar-16{
+    text-align: center;
+    margin-top: 60px;
+}
+ 
+.content15{
+    font-size: 17px;
+    font-weight: 400;
+    color: #777777;
+    font-family: "Alegreya Sans", sans-serif;
+}
+
+.pic img{
+    width: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+/* media  */
+
+
+@media (max-width:576px){
+    .Home{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
